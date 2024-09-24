@@ -5,7 +5,7 @@
 * A higher value of the centrality for a node means this node lies on many shortest path.
 * high value of these centrality indicate that majority of the information pass through these node.
 * In the model we are taking the shortest path for message aggregation.
-* The benefit of out model is that it is inductive which means it can be trained on one set of * 
+* The benefit of out model is that it is inductive which means it can be trained on one set of  
   graph and evaluated on another set of graph.
 * For the model we are using GNN Bet and GNN close for approximating betweenenss and closeness 
   centrality.
